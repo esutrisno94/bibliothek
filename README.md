@@ -26,7 +26,7 @@ To get report on the 5 most popular books you can use -apps:report
 ```
 python -m nbibliothek_v1 - apps:report
 ```
-<img src="readme_images/nbibliothek_v1_with_report_capture.PNG">
+<img src="readme_images/nbibliothek_v1_with_report_capture.PNG" width="400">
 
 
 We implemented Factory Method to change the program's language which can be executed with:
@@ -34,7 +34,7 @@ We implemented Factory Method to change the program's language which can be exec
 ```
 python -m nbibliothek_v2 -lang=EN #default language is -lang=IN
 ```
-<img src="readme_images/nbibliothek_v2_capture.PNG">
+<img src="readme_images/nbibliothek_v2_capture.PNG" width="400">
 
 Every command used in nbibliothek_v1 also applies to nbibliothek_v2
 
